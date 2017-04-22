@@ -25,7 +25,7 @@ SECRET_KEY = 'f*#d81wazoc-)a%3@m5n=x2@$te8^zl+09ns=(!q^d4n1t&3^j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['megmania.pythonanywhere.com']
 
 
 # Application definition
